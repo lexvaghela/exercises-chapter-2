@@ -1,5 +1,5 @@
 def isprime(n):
-    """Returns if a number is prime or not."""
+    """Returns whether a number is prime or not."""
     from math import sqrt
     if n == 1:
         return False
